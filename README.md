@@ -50,7 +50,7 @@ public class Yürüt {
 
 public static void Main(){
 
-+ İki tane yeni Thread nesnesi oluşturup, başlatıyoruz.
++ İki yeni Thread nesnesi oluşturup, başlatıyoruz.
 
 Thread t1 = new Thread(CagirThread.threada);
 
